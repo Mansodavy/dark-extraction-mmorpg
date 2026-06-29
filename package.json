@@ -1,33 +1,31 @@
 {
-    "name": "reldens",
-    "version": "4.0.0-beta.39.8",
-    "description": "Reldens - MMORPG Platform",
-    "author": "Damian A. Pastorini",
+    "name": "dark-extraction-mmorpg",
+    "version": "0.1.0-alpha.1",
+    "description": "Dark Fantasy Extraction Shooter MMORPG - forked from Reldens",
+    "author": "Dark Extraction Team (forked from Damian A. Pastorini)",
     "license": "MIT",
-    "homepage": "https://www.reldens.com/",
+    "homepage": "https://github.com/dark-extraction-mmorpg",
     "source": false,
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/damian-pastorini/reldens.git"
+        "url": "git+https://github.com/dark-extraction-mmorpg/dark-extraction-mmorpg.git"
     },
     "keywords": [
-        "reldens",
-        "game",
+        "dark-extraction-mmorpg",
+        "extraction-shooter",
+        "dark-fantasy",
+        "shooter",
         "mmorpg",
-        "rpg",
-        "dwd",
+        "multiplayer",
         "colyseus",
         "phaser",
         "parcel",
         "nodejs",
         "mmo",
-        "multiplayer",
-        "rol",
-        "platform",
-        "framework",
+        "tarkov-like",
+        "extraction",
         "javascript",
-        "js",
-        "script"
+        "js"
     ],
     "bugs": {
         "url": "https://github.com/damian-pastorini/reldens/issues"
